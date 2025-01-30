@@ -1,0 +1,12 @@
+{
+  "name": "barbearia-machado",
+  "description": "Aplicação web para agendamento de horários em salões",
+  "version": "1.0.0",
+  "author": "Igor Emanuel",
+  "scripts": {
+    "server": "json-server --watch db.json --port 3333"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.21"
+  }
+}
