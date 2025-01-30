@@ -1,3 +1,14 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": 1,
+      "when": "2023-10-15T10:00:00Z",
+      "client": "João Silva"
+    },
+    {
+      "id": 2,
+      "when": "2023-10-15T14:00:00Z",
+      "client": "Maria Souza"
+    }
+  ]
 }
